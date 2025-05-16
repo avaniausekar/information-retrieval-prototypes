@@ -8,3 +8,6 @@ __pycache__/
 
 crawler_data
 crawler_data1
+
+*.zip
+pa1-data
